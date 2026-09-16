@@ -3,7 +3,7 @@ const isProd = process.env.NODE_ENV === "production";
 
 // CHANGE THIS to your GitHub repository name (leave "" for a user/org site
 // like username.github.io, or for Netlify/Vercel).
-const repo = "becky-birthday";
+const repo = "becky";
 
 const nextConfig = {
   output: "export",              // static export for GitHub Pages
